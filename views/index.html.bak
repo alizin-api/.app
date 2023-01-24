@@ -3,9 +3,9 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta property="og:site_name" content="https://smkxt7.my.id/dash" />
+	<meta property="og:site_name" content="https://bobok-aja-dek.alizindev.repl.co/dash" />
     <meta property="og:title" content="Dashboard | ALIZIN" />
-    <meta property="og:url" content="https://smkxt7.my.id/dash" />
+    <meta property="og:url" content="https://bobok-aja-dek.alizindev.repl.co/dash" />
     <meta property="og:image" content="https://telegra.ph/file/72d45ec36061d47f2e83b.jpg" />
     <meta property="og:image:type" content="image/jpg" />
     <meta property="og:image:width" content="400" />
@@ -1033,7 +1033,7 @@ res.send(body)<br>
 							<form action="/checkapikey">
 							<h2>CHECAR Apikey</h2>
 							<a href="#apikey">NÃO TEM apikey?</a>
-							<input type="apikey" placeholder="Input Apikey" name="apikey" required>
+							<input type="apikey" placeholder="Insira Sua Apikey" name="apikey" required>
 								<br></br>
 							<button class="check-apikey">CHECAR</button>
 							</form>
@@ -1058,7 +1058,7 @@ res.send(body)<br>
 				<div class="container-fluid">
 					<div class="footer-wrap pd-20 mb-20 card-box">
 					Copyright © 2023
-					<a href="https://smkxt7.my.id" target="_blank"
+					<a href="https://bobok-aja-dek.alizindev.repl.co/" target="_blank"
 						>ALIZIN-DEV</a
 					>. ESQUERDO RESERVADO 
 				</div>
