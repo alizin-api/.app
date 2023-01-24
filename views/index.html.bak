@@ -1033,7 +1033,7 @@ res.send(body)<br>
 							<form action="/checkapikey">
 							<h2>CHECAR Apikey</h2>
 							<a href="#apikey">NÃO TEM apikey?</a>
-							<input type="apikey" placeholder="Insira Sua Apikey" name="apikey" required>
+							<input type="apikey" placeholder="Input Apikey" name="apikey" required>
 								<br></br>
 							<button class="check-apikey">CHECAR</button>
 							</form>
