@@ -2,7 +2,7 @@ router.get('/search/youtube', async(req, res, next) => {
     var q = req.query.q
 
     let fetch = require('node-fetch')
-         fetch(encodeURI(`https://danzzapi.xyz/api/search/google?query=${q}&apikey=YOUR_APIKEY`))
+         fetch(encodeURI(`http://alizindev.cleverapps.io/api/search/google?query=${q}&apikey=SUA_KEY`))
          .then(response => response.json())
          .then(ress => {
             var result = ress;
